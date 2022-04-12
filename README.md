@@ -13,5 +13,5 @@ Hard Mode:
 
 # How to play the game on your local system
 1. Download the zip file.
-2. After extracting, open Color_Game/Color_picker/color_picker.html" in any browser on your PC.
+2. After extracting, open color_choose_game.html" in any browser on your PC.
 3. Enjoy the game. 
